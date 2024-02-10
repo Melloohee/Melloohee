@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Melloohee
-- 👀 I’m interested in learning languages, programming and making websites etc
-- 🌱 I’m currently learning in computer science in university
-- 💞️ I’m looking to collaborate on project to widden my knowledge. Please guide me too.
-- 📫 How to reach me...
+- 👋 Hi, I’m Mels
+- 👀 I’m interested in learning programming languages, game developments and making websites 
+- 🌱 I’m currently furthering my study in computer science
 
 <!---
 Melloohee/Melloohee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
